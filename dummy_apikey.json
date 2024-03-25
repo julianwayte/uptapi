@@ -1,0 +1,14 @@
+{
+  "id": "999999999-88888-44444-999999999",
+  "userId": "9999999-88888-777777-6666666",
+  "customerId": "888888888888888888888888",
+  "active": true,
+  "isInternal": false,
+  "key": "TTTTTTTTTTTTTTTTTTTTTTOOOOOOOOOOO",
+  "secret": "aaaaaaaaaaaaaaaaaa560987560987560987",
+  "expiry": null,
+  "updatedAt": "2024-03-21T15:22:17.376Z",
+  "createdAt": "2024-03-21T15:22:17.376Z",
+  "domainSuffix": ".domain.io",
+  "domain": "mydomain"
+}
